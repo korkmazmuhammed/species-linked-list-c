@@ -94,16 +94,12 @@ Species: corax
 
 - **No libraries** except `<stdio.h>` and `<string.h>` are used.
 - **Dynamic memory management**: All allocations are freed on deletion.
-- **Output format** strictly follows the assignment requirements.
-- For demo and results, see the assignment report PDF and video:  
-  [YouTube Demo](https://youtu.be/Lo8Ha-aFNuw)
 
 ---
 
 ## Files
 
 - `Muhammed_Korkmaz.c` — Main program
-- `Muhammed_korkmaz.pdf` — Report (with output screenshots & YouTube link)
 - `CSE 102 Assignment 13.pdf` — Assignment instructions
 
 ---
